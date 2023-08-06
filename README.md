@@ -6,13 +6,6 @@
 
 I decided to start this small projects to grow my personal knolagde about these programming language and technologies.
 
-## Prerequisites
-
-This section is optional if there isn't any special dependencies. Else a bulletlist will suffice, e.g.,
-+ [Node.js](https://nodejs.org/)
-+ [React](https://facebook.github.io/react/)
-+ Others
-
 ## Contributers
 
 [![](https://github.com/rerf19.png?size=50)](https://github.com/rerf19)
