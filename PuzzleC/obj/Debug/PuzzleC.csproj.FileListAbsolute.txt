@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.formPuzzle.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\bin\Debug\PuzzleC.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\bin\Debug\PuzzleC.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\bin\Debug\PuzzleC.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\PuzzleC\obj\Debug\PuzzleC.pdb

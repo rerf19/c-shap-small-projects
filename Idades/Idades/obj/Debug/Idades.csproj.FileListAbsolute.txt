@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\bin\Debug\Idades.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\bin\Debug\Idades.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\bin\Debug\Idades.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.FormIdades.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Idades\Idades\obj\Debug\Idades.pdb

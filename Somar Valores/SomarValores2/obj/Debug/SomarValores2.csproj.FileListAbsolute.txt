@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.somarValores.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\bin\Debug\SomarValores2.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\bin\Debug\SomarValores2.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\bin\Debug\SomarValores2.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\SomarValores2\SomarValores2\obj\Debug\SomarValores2.pdb

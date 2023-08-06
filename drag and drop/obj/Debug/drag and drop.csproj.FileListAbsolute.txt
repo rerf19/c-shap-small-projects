@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\bin\Debug\drag and drop.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\bin\Debug\drag and drop.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\bin\Debug\drag and drop.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag and drop.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag_and_drop.dragDrop.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag_and_drop.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag and drop.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag and drop.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag and drop.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\drag and drop\obj\Debug\drag and drop.pdb

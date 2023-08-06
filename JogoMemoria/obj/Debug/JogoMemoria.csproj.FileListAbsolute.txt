@@ -1,0 +1,11 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.Form1.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\JogoMemoria\obj\Debug\JogoMemoria.Form2.resources

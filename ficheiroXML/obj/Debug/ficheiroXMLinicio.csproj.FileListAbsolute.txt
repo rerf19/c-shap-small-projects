@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\bin\Debug\ficheiroXMLinicio.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\bin\Debug\ficheiroXMLinicio.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\bin\Debug\ficheiroXMLinicio.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.Form1.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\ficheiroXMLinicio\obj\Debug\ficheiroXMLinicio.pdb

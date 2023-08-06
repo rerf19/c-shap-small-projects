@@ -1,0 +1,17 @@
+﻿<!-- IMAGENS 
+https://julianocustodio.com/2017/03/30/xamarin-imagens-android/ -->
+    <?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:inicioXam"
+             x:Class="inicioXam.MainPage">
+    <ScrollView>
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Image Source="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Papio_anubis_%28Serengeti%2C_2009%29.jpg/200px-Papio_anubis_%28Serengeti%2C_2009%29.jpg"
+                   HeightRequest="300" />
+            <Button Text="Par ou Impar" Clicked="ParOuImparButton_OnClicked"/>
+            <Button Text="Maior ou Menor" Clicked="MaiorOuMenorButton_OnClicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\bin\Debug\Jogo do Galo.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\bin\Debug\Jogo do Galo.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\bin\Debug\Jogo do Galo.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo do Galo.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo_do_Galo.jogo_do_galo.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo_do_Galo.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo do Galo.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo do Galo.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo do Galo.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Jogo do Galo\obj\Debug\Jogo do Galo.pdb

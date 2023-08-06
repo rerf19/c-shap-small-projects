@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb

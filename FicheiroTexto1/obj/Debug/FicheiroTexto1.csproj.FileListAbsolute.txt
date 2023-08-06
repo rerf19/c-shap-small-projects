@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\bin\Debug\FicheiroTexto1.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\bin\Debug\FicheiroTexto1.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\bin\Debug\FicheiroTexto1.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.Form1.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\FicheiroTexto1\obj\Debug\FicheiroTexto1.pdb

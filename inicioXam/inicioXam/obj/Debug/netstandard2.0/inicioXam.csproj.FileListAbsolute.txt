@@ -1,0 +1,14 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\bin\Debug\netstandard2.0\inicioXam.deps.json
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\bin\Debug\netstandard2.0\inicioXam.dll
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\bin\Debug\netstandard2.0\inicioXam.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.AssemblyInfo.cs
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.dll
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\inicioXam.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\ParOuImpar.xaml.g.cs
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\inicioXam\inicioXam\obj\Debug\netstandard2.0\MaiorOuMenor.xaml.g.cs

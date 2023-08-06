@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\bin\Debug\OperacoesBasicas.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\bin\Debug\OperacoesBasicas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\bin\Debug\OperacoesBasicas.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.OprBasicas.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\OperacoesBasicas\OperacoesBasicas\obj\Debug\OperacoesBasicas.pdb

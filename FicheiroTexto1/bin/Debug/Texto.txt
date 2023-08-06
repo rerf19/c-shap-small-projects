@@ -1,0 +1,32 @@
+1
+Rodrigo
+Palavra0 Palavra1 Palavra2 Palavra3 Palavra4 
+Linha0 
+Linha1 
+Linha2 
+Linha3 
+Linha4 
+2
+Ferreira
+Palavra0 Palavra1 Palavra2 Palavra3 Palavra4 
+Linha0 
+Linha1 
+Linha2 
+Linha3 
+Linha4 
+3
+Reis
+Palavra0 Palavra1 Palavra2 Palavra3 Palavra4 
+Linha0 
+Linha1 
+Linha2 
+Linha3 
+Linha4 
+4
+Emanuel
+Palavra0 Palavra1 Palavra2 Palavra3 Palavra4 
+Linha0 
+Linha1 
+Linha2 
+Linha3 
+Linha4 

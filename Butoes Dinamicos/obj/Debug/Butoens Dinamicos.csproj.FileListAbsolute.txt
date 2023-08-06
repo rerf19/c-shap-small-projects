@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\bin\Debug\Butoens Dinamicos.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\bin\Debug\Butoens Dinamicos.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\bin\Debug\Butoens Dinamicos.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens Dinamicos.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens_Dinamicos.BtnDinamicos.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens_Dinamicos.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens Dinamicos.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens Dinamicos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens Dinamicos.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Butoens Dinamicos\obj\Debug\Butoens Dinamicos.pdb

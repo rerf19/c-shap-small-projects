@@ -1,0 +1,7 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\bin\Debug\intoClassConsola.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\bin\Debug\intoClassConsola.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\bin\Debug\intoClassConsola.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\obj\Debug\intoClassConsola.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\obj\Debug\intoClassConsola.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\obj\Debug\intoClassConsola.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\intoClassConsola\obj\Debug\intoClassConsola.pdb

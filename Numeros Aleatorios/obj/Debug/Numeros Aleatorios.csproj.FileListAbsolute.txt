@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros Aleatorios.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros_Aleatorios.form_n_a.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros_Aleatorios.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros Aleatorios.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros Aleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\bin\Debug\Numeros Aleatorios.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\bin\Debug\Numeros Aleatorios.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\bin\Debug\Numeros Aleatorios.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros Aleatorios.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Numeros Aleatorios\obj\Debug\Numeros Aleatorios.pdb

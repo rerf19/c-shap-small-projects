@@ -1,0 +1,10 @@
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\bin\Debug\Tabuadas.exe.config
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\bin\Debug\Tabuadas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\bin\Debug\Tabuadas.pdb
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.csprojAssemblyReference.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.FormTabuada.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.Properties.Resources.resources
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.csproj.GenerateResource.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.exe
+C:\Users\Rodrigo Ferreira\Desktop\Tasks\Programming\Tabuadas\Tabuadas\obj\Debug\Tabuadas.pdb
